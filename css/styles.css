@@ -1,0 +1,14 @@
+body {
+    background-color: #333;
+    color:white;
+    margin: 0px;
+}
+
+#logo {
+    font-size: 60px;
+    text-align:center;
+    font-family: monospace;
+    top:45%;
+    position: absolute;
+    width: 100%;
+}
